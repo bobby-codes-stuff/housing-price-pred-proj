@@ -1,4 +1,4 @@
-# Housing Price prediction project
+# Housing Price Prediction Project
 
 Using the provided dataset, the following ml algorithms will be built to predict housing prices:
 <ol>
